@@ -14,7 +14,7 @@ stages {
 	stage ('clean'){
 	
 		steps {
-				sh "sudo yum install httpd -y"
+				sh "mvn test"
 		}
 	
 	}
@@ -22,18 +22,7 @@ stages {
 	stage ('installing'){
 	
 		steps {
-				sh "service httpd start"
-                       
-		}
-	
-	}
-	
-	
-		stage ('deply'){
-	
-		steps {
-			        sh "chmod -R 777 /var/www/html/"
-				sh "cp -r /mnt/index.html /var/www/html/"
+				sh "mvn install"
                        
 		}
 	
