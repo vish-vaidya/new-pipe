@@ -3,7 +3,7 @@ agent {
 
 node {
 			label 'node1'
-			customWorkspace '/mnt/new-
+			customWorkspace '/mnt/new-'
 
 }
 
