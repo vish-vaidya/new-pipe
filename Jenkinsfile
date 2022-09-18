@@ -2,7 +2,7 @@ pipeline {
 agent {
 
 node {
-			label 'node1'
+			label 'master'
 			customWorkspace '/mnt/new-'
 
 }
