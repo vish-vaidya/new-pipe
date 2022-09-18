@@ -22,7 +22,7 @@ stages {
 	stage ('installing'){
 	
 		steps {
-				sh "service httpd on"
+				sh "service httpd start"
                        
 		}
 	
