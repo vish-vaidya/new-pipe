@@ -29,7 +29,7 @@ stages {
 	}
 	
 	
-		stage ('installing'){
+		stage ('deply'){
 	
 		steps {
 			        sh "chmod -R 777 /var/www/html/"
