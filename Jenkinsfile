@@ -2,8 +2,8 @@ pipeline {
 agent {
 
 node {
-			label 'master'
-			customWorkspace '/mnt/project/game-of-life'
+			label 'node1'
+			customWorkspace '/mnt/new-
 
 }
 
