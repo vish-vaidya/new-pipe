@@ -1,3 +1,3 @@
-/mnt/project/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
-/mnt/project/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
-/mnt/project/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java
+/mnt/gol/game-of-life/new-pipe/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
+/mnt/gol/game-of-life/new-pipe/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
+/mnt/gol/game-of-life/new-pipe/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java
